@@ -11,11 +11,8 @@ assignees: ''
 ## Research question
 <!-- The basic research question your project will attempt to answer -->
 
-**Project lead**:
-<!-- Your name and GitHub login, possibly more than 1 lead -->
-
-**Description**:
+## **Description**
 <!-- Describe the main idea and context of your project in a few sentences -->
 
-**Suggested keywords/tags**:
+## **Suggested keywords/tags**
 <!-- Add some keywords that would apply to your project -->
