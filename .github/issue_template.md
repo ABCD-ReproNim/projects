@@ -8,11 +8,11 @@ assignees: ''
 ---
 <!-- Make the title of the issue the title of your project -->
 
-## Research question
-<!-- The basic research question your project will attempt to answer -->
+## Research question(s)
+<!-- The basic research question(s) your project will attempt to answer -->
 
-## **Description**
+## Description
 <!-- Describe the main idea and context of your project in a few sentences -->
 
-## **Suggested keywords/tags**
+## Suggested keywords/tags
 <!-- Add some keywords that would apply to your project -->
