@@ -1,5 +1,5 @@
 ---
-name: ABCD-ReproNim Project Template
+name: Propose project
 about: This provides the basic structure for your initial project description.
 title: ''
 labels: 'project-proposal'
