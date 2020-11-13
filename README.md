@@ -10,3 +10,10 @@ However, you can propose a project long before the project week, and even before
 To propose a project, open an issue with the "Propose project" template.
 There will be instructions for filling out the template.
 Don't worry about having a fully fleshed-out analysis plan or anything- the project proposal issues are for _initial_ plans.
+
+**Imposter syndrome disclaimer**: We want your ideas. No, really. Project proposals can always be tuned and improved over time, so please feel free to open an issue for your idea.
+
+## Code of Conduct
+
+We want all students to feel welcome when participating in conversations.
+Please have a look at the ABCD-ReproNim course's [Code of Conduct](https://docs.google.com/document/d/1XQf9aEggUlwIlft8mVGC1mdMjiJVWF4RDnnVGWKvfo8/edit?usp=sharing).
