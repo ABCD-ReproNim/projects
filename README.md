@@ -1,4 +1,4 @@
-# projects
+# ABCD-ReproNim Course Project Proposals
 Tracking and managing project proposals for the ABCD-ReproNim course's 2020 project week.
 
 ## Contributing
