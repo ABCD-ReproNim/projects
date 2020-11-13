@@ -11,6 +11,8 @@ To propose a project, open an issue with the "Propose project" template.
 There will be instructions for filling out the template.
 Don't worry about having a fully fleshed-out analysis plan or anything- the project proposal issues are for _initial_ plans.
 
+If you find yourself overwhelmed by the template, please look at [our example proposal](https://github.com/ABCD-ReproNim/projects/issues/2).
+
 **Imposter syndrome disclaimer**: We want your ideas. No, really. Project proposals can always be tuned and improved over time, so please feel free to open an issue for your idea.
 
 ## Code of Conduct
