@@ -5,7 +5,7 @@ Tracking and managing project proposals for the ABCD-ReproNim course's 2020 proj
 
 The ABCD-ReproNim course's project week is limited to students with a valid data use certification (DUC) for the ABCD dataset.
 
-However, you can propose a project long before the project week, and even before you have a DUC, as long as you are an enrolled student or an obserer student who has been invited to participate in Project Week.
+However, you can propose a project long before the project week, and even before you have a DUC, as long as you are an enrolled student or an observer student who has been invited to participate in Project Week.
 
 To propose a project, open an issue with the "Propose project" template or [click here](https://github.com/ABCD-ReproNim/projects/issues/new/choose).
 There will be instructions for filling out the template.
