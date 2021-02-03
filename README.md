@@ -3,7 +3,7 @@ Tracking and managing project proposals for the ABCD-ReproNim course's 2020 proj
 
 ## Contributing
 
-The ABCD-ReproNim course's project week is limited to **enrolled** students with a valid data use certification (DUC) for the ABCD dataset.
+The ABCD-ReproNim course's project week is limited to students with a valid data use certification (DUC) for the ABCD dataset.
 
 However, you can propose a project long before the project week, and even before you have a DUC, as long as you are an enrolled student.
 
