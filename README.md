@@ -15,6 +15,11 @@ If you find yourself overwhelmed by the template, please look at [our example pr
 
 **Imposter syndrome disclaimer**: We want your ideas. No, really. Project proposals can always be tuned and improved over time, so please feel free to open an issue for your idea.
 
+## Where are the existing project proposals?
+
+The projects that have already been proposed can be viewed on [the Issues page](https://github.com/ABCD-ReproNim/projects/issues).
+Feel free to comment on any projects you're interested in!
+
 ## Code of Conduct
 
 We want all students to feel welcome when participating in conversations.
