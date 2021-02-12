@@ -14,7 +14,7 @@ assignees: ''
 ## Description
 <!-- Describe the main idea and context of your project in a few sentences below this line -->
 
-## Tools and algoirhtms to be used
+## Tools and algorithms to be used
 <!-- List any tools or statistical approaches you plan to use in your project (e.g., fMRIPrep, ANOVA, R) -->
 
 ## Skills we could use help with (optional)
